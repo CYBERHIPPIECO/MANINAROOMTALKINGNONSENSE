@@ -1,4 +1,7 @@
-# maninaroomtalkingnonsense
+![Project Banner](/assets/template_visuals/temp-banner.png)
+
+<a name="intro"></a>
+# MAN IN A ROOM TALKING NONSENSE - EMOTIONAL ROGUELIKE
 Emotional roguelike where you have to battle hurtful words.
 
 Man In A Room Talking Nonsense is an emotional rogue like where you have to battle hurtful words.
@@ -98,10 +101,9 @@ Personal Sentences
 Media Sentences
 “Over a 1000 people are presumed missing or dead."
 
-# MAN IN A ROOM TALKING NONSENSE
+MAN IN A ROOM TALKING NONSENSE
 
 Game featuring a man of rather older than younger age talking nonsense. He's nuts! He is truly bonkers, I tell you.
-
 
 ---
 
@@ -117,6 +119,79 @@ I’m older, you should listen to me.Is there anything you would like to justify
 I deserve more from you. How is this possible that every time we repeat the same patterns? We don’t understand each other at all. You don’t want to be understood. You prefer to live in a lie. But this is the true lie (white). You will not survive if you don’t follow the rest. Why are you mad at me? I’m still angry at you, don’t you see it? I’m sorry to hear that you’re still angry at me. If you were more observant you would see that all this is your fault. I can’t promise you I won’t flip out. We prefer things the old way and you should listen to what we have to say.I know you already know that, but please listen to our repetition. I don’t think you are capable of forgiveness. 
 You are mother-like entity that treats everyone like they are your servants. I demand time to be with you. You tell yourself you are always right. I’m always right. How am I always right? I observe you. The only person you don’t question is yourself. Why is it so fucking difficult to see that we don’t belong with each other? You’re like water and I’m like fire. It’s normal we fight, I forgive you. Screw you! You don’t trust me with anything! How am I supposed to feel okay? You’re such an asshole, you know that? I think this is the end of us. Become who you don’t want to be. You need to earn money. Everyone has a job, you should get one too. 
 Be nice but also be mean. Don’t interrupt me, ever! I’m talking now, will you let me finish. Let me fucking finish! I’m trying to finish the sentence. Why are you interrupting me? I’m sorry, I didn’t mean all those words about you because it wasn’t about you. Aaaaargh! I’m very sad right now. I hate how you always want to stay at home! That’s the thing you could do all the time, isn’t it? I haven’t finished talking so you don’t know what I wanted. You broke me.
+
+![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
+
+Description.
+
+![GALLERY QUAD](/assets/template_visuals/temp-triple-gallery.png)
+
+Description.
+
+![GALLERY QUAD](/assets/template_visuals/temp-quad-gallery.png)
+
+### Table of Contents
+1. [Introduction.](#intro)
+2. [Features.](#features)
+3. [Issues.](#issues)
+4. [Icebox.](#icebox)
+5. [Installation and usage guide.](#install)
+6. [Contributing.](#contribute)
+7. [License.](#license)
+8. [Credits.](#credits)
+9. [Commit Glyphs.](#glyphs)
+
+<a name="features"></a>
+### Features
++ Feature_01
++ Feature_02
++ Feature_03
+
+<a name="issues"></a>
+### Issues
++ Issue_01
++ Issue_02
++ Issue_03
+
+<a name="icebox"></a>
+### Icebox
++ Idea_01
++ Idea_02
++ Idea_03
+
+<a name="install"></a>
+### Installation and Usage Guide
+Include basic necessary components. Gifs if required.
+```
+1. 
+2. 
+3. 
+```
+
+<a name="contribute"></a>
+### Contributing
+Insert project contribution rules if allowed.
+
+<a name="license"></a>
+### License
+Insert project licensing options if there are any.
+
+<a name="credits"></a>
+### Credits
+Insert project creator entities, contributors and their respective presence links.
+
+<a name="glyphs"></a>
+### Commit Glyphs
+
++ ☰ Code structure and formatting
++ ▲ Performance improvements
++ ⨯ File deletion
++ ∗ Bugfix
++ ⬡ New Feature
++ ⎔ Documentation
++ ❑ UI design
++ ⚑ Release
+
 
 
 
